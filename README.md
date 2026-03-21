@@ -23,9 +23,9 @@
 
 ## 📊 Thống kê GitHub
 
-<p align="center" style="display: flex; justify-content: center; gap: 15px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=duy-301205&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://streak-stats.demolab.com/?user=duy-301205&theme=tokyonight&hide_border=true" height="150"/>
+<p align="center" style="display: flex; justify-content: center; gap: 25px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=duy-301205&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://streak-stats.demolab.com/?user=duy-301205&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 
