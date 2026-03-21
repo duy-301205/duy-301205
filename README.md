@@ -15,15 +15,18 @@
 
 ## 🛠 Công nghệ sử dụng
 
-![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,postgres,git,linux,docker)
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,git,docker,postman" />
+</p>
 ---
 
 ## 📊 Thống kê GitHub
 
-![Hoang's GitHub stats](https://github-readme-stats.vercel.app/api?username=duy-301205&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=duy-301205&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://streak-stats.demolab.com/?user=duy-301205&theme=tokyonight" height="150"/>
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=duy-301205&theme=tokyonight)
 
 ---
 
