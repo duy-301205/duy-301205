@@ -21,7 +21,7 @@
 
 ## 📊 Thống kê GitHub
 
-![Hoang's GitHub stats](https://github-readme-stats.vercel.app/api?username=duy-301205show_icons=true&theme=tokyonight)
+![Hoang's GitHub stats](https://github-readme-stats.vercel.app/api?username=duy-301205&show_icons=true&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=duy-301205&theme=tokyonight)
 
