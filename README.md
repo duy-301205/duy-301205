@@ -21,9 +21,9 @@
 
 ## 📊 Thống kê GitHub
 
-![Hoang's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Hoang's GitHub stats](https://github-readme-stats.vercel.app/api?username=duy-301205show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=duy-301205&theme=tokyonight)
 
 ---
 
@@ -43,6 +43,5 @@
 
 ## 🌐 Liên hệ
 
-- 📧 your-email@gmail.com
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+- 📧 your-hduy9863@gmail.com
 
