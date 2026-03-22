@@ -1,4 +1,4 @@
-# 👋 Xin chào, mình là Hoàng Duy
+# 👋 Xin chào, mình là Duy
 
 💻 Lập trình viên Backend (Java / Spring Boot)
 
@@ -46,7 +46,7 @@
 
 ## 📌 Dự án
 
-🚧 Các dự án đang được phát triển...
+🚧 Các dự án của tôi đang được phát triển...
 
 ---
 
