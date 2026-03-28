@@ -23,15 +23,9 @@
 
 ## 📊 Thống kê GitHub
 
-<p align="center" style="display: flex; justify-content: center; gap: 40px;">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=duy-301205&layout=compact&theme=tokyonight&hide_border=true" 
-    height="180"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=duy-301205&show_icons=true&theme=tokyonight&hide_border=true" 
-    height="180"
-  />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=duy-301205&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duy-301205&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="180"/>
 </p>
 
 ---
