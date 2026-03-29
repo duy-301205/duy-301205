@@ -30,7 +30,7 @@
 
 ---
 
-## 🌱 Hiện tại đang tập trung
+## 🌱 Hiện tại mình đang tập trung
 
 - 🔧 Xây dựng các dự án Backend với Spring Boot
 - 🧠 Cải thiện tư duy thuật toán & cấu trúc dữ liệu
