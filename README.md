@@ -40,7 +40,7 @@
 
 ## 📌 Dự án
 
-🚧 Các dự án của tôi đang được phát triển hãy đón chờ nhé!
+🚧 Các dự án của mình đang được phát triển hãy đón chờ nhé!
 
 ---
 
