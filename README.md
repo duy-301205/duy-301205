@@ -6,10 +6,13 @@
 
 ## 🚀 Giới thiệu
 
-- 🎓 Sinh viên ngành Khoa học Máy tính và Thông tin đang theo học tại HUS
-- 🔥 Tập trung phát triển Backend với Java & Spring Boot
-- 📚 Đang học: System Design, RESTful API, Database
-- 🎯 Mục tiêu: Trở thành Backend Engineer chuyên nghiệp trong tương lai
+🎓 Sinh viên ngành Khoa học Máy tính và Thông tin đang theo học tại HUS
+
+🔥 Tập trung phát triển Backend với Java & Spring Boot
+
+📚 Đang học: System Design, RESTful API, Database
+
+🎯 Mục tiêu: Trở thành Backend Engineer chuyên nghiệp trong tương lai
 
 ---
 
