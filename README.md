@@ -36,7 +36,9 @@
 ## 🌱 Hiện tại mình đang tập trung
 
 🔧 Xây dựng các dự án Backend với Spring Boot
+
 🧠 Cải thiện tư duy thuật toán & cấu trúc dữ liệu
+
 ⚡ Tìm hiểu cách hoạt động của hệ thống thực tế
 
 ---
