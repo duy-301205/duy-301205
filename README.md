@@ -1,6 +1,6 @@
 # 👋 Xin chào, mình là Duy(Dyu)
 
-💻 Lập trình viên Backend (Java / Spring Boot)
+💻 Mình muốn trở thành 1 lập trình viên Backend (Java / Spring Boot)
 
 ---
 
