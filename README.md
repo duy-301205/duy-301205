@@ -1,4 +1,4 @@
-# 👋 Xin chào, mình là Duy(Dyu)
+# 👋 Xin chào, mình là Duy
 
 💻 Mình muốn trở thành 1 lập trình viên Backend (Java / Spring Boot)
 
