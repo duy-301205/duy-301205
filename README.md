@@ -16,7 +16,7 @@
 
 ---
 
-## 🛠 Công nghệ sử dụng
+## 🛠 Công nghệ 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,git,docker,postman" />
