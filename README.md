@@ -19,7 +19,7 @@
 ## 🛠 Công nghệ 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,html,css,tailwind,mysql,postgres,mongodb,redis,git,github,docker,postman,idea,vscode," />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,react,js,html,css,tailwind,mysql,postgres,mongodb,redis,docker,git,github,linux,postman,idea,vscode" />
 </p>
 
 ---
